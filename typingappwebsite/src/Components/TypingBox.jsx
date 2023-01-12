@@ -3,7 +3,7 @@ import React from 'react'
 import {createRef, useEffect, useRef } from 'react';
 
 const TypingBox = ({words})=> {
-
+ //typebox
    
     const inputRef = useRef(null); 
 
