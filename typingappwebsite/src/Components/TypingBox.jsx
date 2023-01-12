@@ -11,7 +11,7 @@ const TypingBox = ({words})=> {
 
     const handleKeyDown = (e) =>{
         console.log(e)
-    }
+    } 
   
      const focusInput = () =>{
         inputRef.current.focus();
