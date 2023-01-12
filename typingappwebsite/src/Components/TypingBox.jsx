@@ -19,7 +19,7 @@ const TypingBox = ({words})=> {
      }
 
     useEffect(()=>{
-       focusInput();
+       focusInput(); 
     },[])
     
   return (
